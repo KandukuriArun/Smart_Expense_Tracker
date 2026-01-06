@@ -24,3 +24,5 @@ Smart Expense Tracker is a simple web application that helps users track their d
 ---
 
 ## 📂 Project Structure
+
+Pages redeploy
